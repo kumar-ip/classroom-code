@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Amitha",
+        "lastName": "SreeKumar",
+        "id": 101,
+        "address": {
+            "city": "Pleasanton"
+        },
+        "course": "UI"
+    },
+    {
+        "firstName": "Aysha",
+        "lastName": "Siddiqha",
+        "id": 102,
+        "address": {
+            "city": "Dublin"
+        },
+        "course": "UI"
+    }
+]

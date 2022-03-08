@@ -1,0 +1,22 @@
+window - load event, 
+    document   - load 
+        head
+        body - load
+            div
+            button - onclick
+            button - onclick
+            button - onclick
+            button - onclick
+
+
+tree 
+
+events - can be there on each object
+
+//Ascynchronous
+//XML
+//Javascript
+
+//AXIOS
+//Fetch api 
+//jquery

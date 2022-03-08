@@ -1,0 +1,56 @@
+pDOM
+
+- Node
+
+Document Node
+Element Node
+Attribute Node
+Text Node
+
+<html>
+
+    <body>
+        <h1 alt='Hello World!!!'>Hello World!!!</h1>
+    </body>
+</html>
+
+
+<h1 alt='Hello World!!!'>Hello World!!!</h1>
+
+HTML - document Node
+h1 = element Node
+alt = attribute Node
+Hello World!!! - Text Node
+
+
+//id
+//class
+//tag
+//nested 
+//attribute
+//pseudo
+//nth-type, nth-element
+
+
+Manipulating DOM
+1. Add Elements, Remove Elements
+2. Add Attributes, Remove Attributes
+3. Add Styles, remove styles
+4. Text Context
+
+
+
+<p style="font-family: , font-size: '></p>
+
+
+Event Handling
+
+DOM Element
+
+-click, change, 
+-mouseOver, mouseIn, mouseAway
+-keyboard events
+
+
+- subscribe - callback, function
+

@@ -1,0 +1,14 @@
+{
+  "name": "js-test-1",
+  "version": "1.0.0",
+  "description": "testing introduction in javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  }
+}

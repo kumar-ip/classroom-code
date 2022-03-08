@@ -1,0 +1,45 @@
+//html
+//php. asp
+
+
+goto server
+html
+
+//rendering = browser
+//Object Model - Tree - DOM
+//Paint the screen, apply styles.
+//DOM manipulation code you have written
+
+//DOM Traverse
+//DOM Manipulation
+//Event Handling
+//AJAX 
+
+IE - Firefox
+DOM Object names - are different
+//custom code for each browser
+
+//jQuery 
+
+function//
+function Car() {
+
+
+}
+
+
+HtmlLink
+HtmlImage
+
+
+
+
+//Nodes
+
+//Document Node
+//Element Nodes - <html, div, p, a
+//Attributes = a = href, img -= src, p - id
+//Text - <p id="main">Hello, How are you?</p>
+
+
+

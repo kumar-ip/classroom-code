@@ -1,0 +1,31 @@
+const express = require('express');
+
+const app = express();
+
+const homePage = `<html>
+    <head>
+        <title>My First Web App</title>
+    </head>
+    <body>
+        <h1>This is my first web application!!!</h1>    
+        <a href='contact'>Go to Contact</a>  
+    </body>
+</html>`;
+
+const contactPage = `<html>
+    <head>
+        <title>My First Web App</title>
+    </head>
+    <body>
+        <h1>This is my contact page!!!</h1>  
+        <a href='home'>Go Back to Home</a>  
+    </body>
+</html>`;
+
+app.get('/', (req, res) => res.send(homePage));
+
+app.get('/home', (req, res) => res.send(homePage));
+
+app.get('/contact', (req, res) => res.send(contactPage));
+
+app.listen(8080);

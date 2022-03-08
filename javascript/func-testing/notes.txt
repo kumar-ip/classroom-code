@@ -1,0 +1,16 @@
+Unit Testing
+
+Node.js modules
+Javascript functions
+or object with functions
+
+
+Testing Framework
+
+-- suite, test case, run, report, assertions
+
+- Unit Testing - Jasmine/Jest
+- Web - Selenium WebDriver (Java/Python/Javascript)
+- React/Angular/Vue.js (Javascript) -
+- Mobile - Appium (WebDriver) - Node.js
+- API Testing (Integration testing or functional) - POSTMAN/Java (RESTAssured)
